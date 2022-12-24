@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Logística Terrestre",
+    "imageLink": "assets/img/placeholder/12.jpg",
+    "link": "/gallery-inside"
+  },
+  {
+    "id": 2,
+    "title": "Logística Marítima",
+    "imageLink": "assets/img/placeholder/21.jpg",
+    "link": "/gallery-inside"
+  },
+  {
+    "id": 3,
+    "title": "Logística Almacenamiento",
+    "imageLink": "assets/img/placeholder/31.jpg",
+    "link": "/gallery-inside"
+  },
+  {
+    "id": 4,
+    "title": "Logística Aéreas",
+    "imageLink": "assets/img/placeholder/41.jpg",
+    "link": "/gallery-inside"
+  }
+]

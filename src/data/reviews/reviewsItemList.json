@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "assets/img/placeholder/80x80.jpg",
+    "authorName": "Mauricio Navas",
+    "starsNum": 5,
+    "authorPosition": "CEO at FRT",
+    "reviewText": "Con una amplia red de agentes de carga nos permitieron brindar un servicio ágil y competitivo, tanto en importación como en exportación."
+  },
+  {
+    "id": 2,
+    "image": "assets/img/placeholder/80x80.jpg",
+    "authorName": "Rodrigo LLorente",
+    "starsNum": 5,
+    "authorPosition": "CMO at TFT",
+    "reviewText": "Con su servicio de almacenaje fiscal y general, nos brindan un manejo de inventario, monitoreo, distribución, suficiente espacio y ubicación estratégica."
+  },
+  {
+    "id": 3,
+    "image": "assets/img/placeholder/80x801.jpg",
+    "authorName": "Rosie Cobos",
+    "starsNum": 5,
+    "authorPosition": "CEO at Cobos",
+    "reviewText": "El servicio de Gestión Aduanera, en todos los puertos, aeropuertos, fronteras, almacenadoras, depósitos aduaneros y zona francas fue muy útil en mi empresa"
+  }
+]

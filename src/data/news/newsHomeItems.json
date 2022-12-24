@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "La logística alerta de una caída del 5% en los envíos de Navidad por la subida de precios ",
+    "link": "/news-single-page",
+    "imgLink": "assets/img/placeholder/504x366_1.jpg",
+    "categoryTitle": "Storage",
+    "categoryLink": "news"
+  },
+  {
+    "id": "2",
+    "title": "Amazon lanza nuevos robots y drones para acelerar la robotización de su logística ",
+    "link": "/news-single-page",
+    "imgLink": "assets/img/placeholder/504x366_2.jpg",
+    "categoryTitle": "Storage",
+    "categoryLink": "news"
+  },
+  {
+    "id": "3",
+    "title": "Distribución y fabricantes apuran un 2022 de mayores ingresos pero de alta tensión en márgenes ",
+    "link": "/news-single-page",
+    "imgLink": "assets/img/placeholder/504x366_3.jpg",
+    "categoryTitle": "Storage",
+    "categoryLink": "news"
+  }
+]

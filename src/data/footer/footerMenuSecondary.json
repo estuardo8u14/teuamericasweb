@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/raul-estuardo-ureta-wer-020b1860",
+    "icon": "fab fa-linkedin-in"
+  },
+  {
+    "id": 2,
+    "title": "Facebook",
+    "link": "https://www.linkedin.com/in/raul-estuardo-ureta-wer-020b1860",
+    "icon": "fab fa-facebook-f"
+  }
+]

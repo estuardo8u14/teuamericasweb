@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Logística Terrestre",
+    "link": "/service-inside",
+    "imgSrc": "assets/img/placeholder/1.jpg",
+    "description": "Ya sea que necesite un camión completo o muchos, tenemos la capacidad que necesita para mover la carga a su manera..."
+  },
+  {
+    "id": "2",
+    "title": "Logística Marítima",
+    "link": "/service-inside",
+    "imgSrc": "assets/img/placeholder/2.jpg",
+    "description": "Brindamos servicio de carga doméstica e internacional aérea, marítima, terrestre y multimodal a nivel mundial..."
+  },
+  {
+    "id": "3",
+    "title": "Logística Almacenamiento",
+    "link": "/service-inside",
+    "imgSrc": "assets/img/placeholder/3.jpg",
+    "description": "Servicio logístico de exportación aérea, marítima, terrestre o multimodal a cualquier parte del mundo. Servicios aduanales, almacenaje y transporte...."
+  },
+  {
+    "id": "4",
+    "title": "Logística Aéreas",
+    "link": "/service-inside",
+    "imgSrc": "assets/img/placeholder/4.jpg",
+    "description": "Proporcionamos servicio de envío de carga suelta aérea para cualquier destino...."
+  }
+]
